@@ -57,3 +57,7 @@ hr {
 #discord:hover , #tryhacke:hover {
     transform: scale(1.1);
 }
+
+#profile-photo {
+    box-shadow: 0px 5px 10px black;
+}
